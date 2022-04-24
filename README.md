@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/prabinbaral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prabinbaral" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/prabin baral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prabin baral" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/user8042dr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user8042dr" height="30" width="40" /></a>
+<a href="https://twitter.com/prabinbaral" target="blank"><img align="center" src="https://raw.githubusercontent.com/prabin/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prabinbaral" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/prabin-baral-%F0%9F%87%B3%F0%9F%87%B5-947a951b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/prabin/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prabin baral" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/user8042dr" target="blank"><img align="center" src="https://raw.githubusercontent.com/prabin/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user8042dr" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
